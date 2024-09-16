@@ -28,3 +28,5 @@ ax.set_xlabel('x')
 ax.set_ylabel('y')
 ax.set_zlabel('z')
 plt.show()
+![Screenshot 2024-09-15 201117](https://github.com/user-attachments/assets/72caf747-a823-4a1d-bca2-2480816ee980)
+
